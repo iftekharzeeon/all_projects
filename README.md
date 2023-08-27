@@ -3,6 +3,7 @@
 These are the projects I have worked on, some of them may be still ongoing. If the link can not be found that means the project is private.
 
 #### **`Academic`**
+  - [TripTix](https://github.com/orgs/Trip-Tix/repositories)
   - [Mobile-Doc (Frontend)](https://github.com/iftekharzeeon/mobile-doc-frontend)
   - [3D Tic-Tac-Toe](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
   - [911 Web Portal](https://github.com/iftekharzeeon/911_web_portal)
